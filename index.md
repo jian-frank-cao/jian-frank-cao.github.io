@@ -10,12 +10,10 @@ permalink: /
 <span style="font-size: 30px; font-weight: bold;">About Me</span>
 <br>
 
-<div style="float: right; margin: 40px;">
+<div style="float: right; margin-top: 20; margin-right: 40px; margin-bottom: 40px; margin-left: 40px;">
     <img src="assets/images/avatar.JPG" width="400px" style="display: block;">
 </div>
 <!-- <img src="assets/images/avatar.JPG" width="400px" class='center' align="right" />  -->
-<br>
-<br>
 <br>
 
 I am a Research Fellow at the Department of Political Science at Trinity College Dublin. I received my Ph.D. in Economics from Florida State University. I have previously worked as a Postdoctoral Scholar at California Institute of Technology between 2019 and 2021.
