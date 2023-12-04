@@ -1,6 +1,6 @@
 ---
 layout: splash 
-permalink: /Research/
+permalink: /research/
 title: "Research"
 author_profile: false
 classes: wide
