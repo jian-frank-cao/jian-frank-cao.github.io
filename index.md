@@ -10,7 +10,7 @@ permalink: /
 <span style="font-size: 30px; font-weight: bold;">About Me</span>
 <br>
 
-<div style="float: right; margin-top: 20; margin-right: 40px; margin-bottom: 40px; margin-left: 40px;">
+<div style="float: right; margin-top: 20px; margin-right: 40px; margin-bottom: 40px; margin-left: 40px;">
     <img src="assets/images/avatar.JPG" width="400px" style="display: block;">
 </div>
 <!-- <img src="assets/images/avatar.JPG" width="400px" class='center' align="right" />  -->
