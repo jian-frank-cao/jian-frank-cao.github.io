@@ -145,7 +145,7 @@ footer:
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Google Scholar"
-      icon: "fa-solid fa-graduation-cap"
+      icon: "fab fa-fw fa-graduation-cap"
       url:  "https://scholar.google.com/citations?user=wuxO2e4AAAAJ&hl=en&authuser=1"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
