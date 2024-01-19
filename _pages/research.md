@@ -38,7 +38,7 @@ classes: wide
 <br>
 <span style="font-size: 20px; font-weight: bold;">Work in Progress</span>
 
-- "Clustering Historical Matrices of Dependent and Independent Variables as Unobserved Effects in Dynamic Panel Data Modeling."  
+- "Dynamic Interaction Panel Estimation: Accounting for Complex Interdependence in Panel Data."  
   _(with Thomas Chadefaux)_
 - "Enhancing Regression Analysis through Self-Aligned DTW-Derived Speed Profiles in Time Series Data."  
   _(with Thomas Chadefaux)_
