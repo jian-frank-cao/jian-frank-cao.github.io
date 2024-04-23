@@ -19,8 +19,9 @@ classes: wide
 - APSA 2024 (American Political Science Association Annual Conference) (Scheduled)
 - APSA 2023 (American Political Science Association Annual Conference)
 - MISDOOM 2023 (Multi-disciplinary International Symposium on Disinformation in Open Online Media Annual Conference)
-- RRoCCET 2021 (Research Running on Cloud Compute & Emerging Technologies)
 - KDD 2021 (Knowledge Discovery and Data Mining)
+- ESRA 2021 (Election Sciences, Reform, & Administration Conference)
+- RRoCCET 2021 (Research Running on Cloud Compute & Emerging Technologies)
 - ESRA 2020 (Election Sciences, Reform, & Administration Conference)
 - Caltech COVID Dynamic Talk 2020
 - Caltech SISL Talks 2019 (Social and Information Sciences Laboratory)
