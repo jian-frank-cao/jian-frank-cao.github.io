@@ -16,6 +16,7 @@ classes: wide
 ---
 <span style="font-size: 30px; font-weight: bold;">Conference and Seminar Presentations</span>
 <br>
+- APSA 2024 (American Political Science Association Annual Conference) (Scheduled)
 - APSA 2023 (American Political Science Association Annual Conference)
 - MISDOOM 2023 (Multi-disciplinary International Symposium on Disinformation in Open Online Media Annual Conference)
 - RRoCCET 2021 (Research Running on Cloud Compute & Emerging Technologies)
