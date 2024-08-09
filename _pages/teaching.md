@@ -9,6 +9,7 @@ classes: wide
 <br>
 <span style="font-size: 30px; font-weight: bold;">Teaching</span>
 <br>
+- _Trinity College Dublin_: Assistant Professor, ECP77101: Introductory Mathematics (2024), ECU33081: Mathematical Economics (2024)
 - _California Institute of Technology_: Post-doc lecturer, SS 224: Social Science Data (2019, 2021)
 - _Florida State University_: Teaching assistant, ECO 3431: Analysis of Economic Data (2017)
 - _Henan University of Economics & Law_: Teaching assistant, Statistics (2008)
