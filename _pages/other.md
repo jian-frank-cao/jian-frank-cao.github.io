@@ -12,7 +12,7 @@ classes: wide
 
 <span style="font-size: 20px; font-weight: bold;">[dsc](https://github.com/conflictlab/dsc)</span>
 
-A R package for the Dynamic Synthetic Control method, an enhanced synthetic control method that accounts for misalignment in time series caused by inherent speed
+An R package for the Dynamic Synthetic Control method, an enhanced synthetic control method that accounts for misalignment in time series caused by inherent speed
 differences.
 ```r
 # R Install
