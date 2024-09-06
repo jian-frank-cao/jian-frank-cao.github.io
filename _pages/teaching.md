@@ -17,7 +17,7 @@ classes: wide
 ---
 <span style="font-size: 30px; font-weight: bold;">Conference and Seminar Presentations</span>
 <br>
-- APSA 2024 (American Political Science Association Annual Conference) (Scheduled)
+- APSA 2024 (American Political Science Association Annual Conference)
 - APSA 2023 (American Political Science Association Annual Conference)
 - MISDOOM 2023 (Multi-disciplinary International Symposium on Disinformation in Open Online Media Annual Conference)
 - KDD 2021 (Knowledge Discovery and Data Mining)
