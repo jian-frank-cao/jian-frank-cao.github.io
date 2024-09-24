@@ -11,7 +11,7 @@ permalink: /
 <br>
 
 <div style="float: right; margin-top: 20px; margin-right: 40px; margin-bottom: 40px; margin-left: 40px;">
-    <img src="assets/images/avatar.JPG" width="400px" style="display: block;">
+    <img src="assets/images/headshot.jpg" width="400px" style="display: block;">
 </div>
 <!-- <img src="assets/images/headshot.jpg" width="400px" class='center' align="right" />  -->
 <br>
