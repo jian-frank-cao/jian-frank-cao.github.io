@@ -12,7 +12,7 @@ classes: wide
 <br>
 <span style="font-size: 20px; font-weight: bold;">Peer-reviewed Articles</span>
 
-- **Cao, Jian**, Thomas Chadefaux. 2024. "[Dynamic Synthetic Controls: Accounting for Varying Speeds in Comparative Case Studies.](/assets/papers/DSC.pdf)" _Political Analysis_. Forthcoming.
+- **Cao, Jian**, Thomas Chadefaux. 2024. "[Dynamic Synthetic Controls: Accounting for Varying Speeds in Comparative Case Studies.](/assets/papers/cao2024dynamic.pdf)" _Political Analysis_. doi: [10.1017/pan.2024.14](https://doi.org/10.1017/pan.2024.14).
 - Li, Zhuofang, **Jian Cao**, Nicholas Adams-Cohen, and R. Michael Alvarez. 2023. "[The Effect of Misinformation Intervention: Evidence from Trump's Tweets and the 2020 Election.](/assets/papers/li2023effect.pdf)" _Multidisciplinary International Symposium on Disinformation in Open Online Media 2023 Proceedings_. doi: [10.1007/978-3-031-47896-3\_7](https://doi.org/10.1007/978-3-031-47896-3_7).
 - **Cao, Jian**, Seo-young Silvia Kim, and R. Michael Alvarez. 2022. "[Bayesian Analysis of State Voter Registration Database Integrity.](/assets/papers/cao2022bayesian.pdf)" _Statistics, Politics and Policy_. doi: [10.1515/spp-2021-0016](https://doi.org/10.1515/spp-2021-0016).
 - **Cao, Jian**, Christina M. Ramirez, and R. Michael Alvarez. 2021. "[The politics of vaccine hesitancy in the United States.](/assets/papers/cao2022politics.pdf)" _Social Science Quarterly_. doi: [10.1111/ssqu.13106](https://doi.org/10.1111/ssqu.13106).
